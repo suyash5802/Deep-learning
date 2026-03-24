@@ -1,0 +1,20 @@
+# Datasets
+data/
+*.csv
+*.tar.gz
+*.zip
+*.h5
+*.pkl
+
+# Model weights
+*.pt
+*.pth
+*.ckpt
+
+# Notebooks checkpoints
+.ipynb_checkpoints/
+
+# Environment
+__pycache__/
+*.pyc
+.envdata/ 
